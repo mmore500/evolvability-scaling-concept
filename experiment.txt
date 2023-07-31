@@ -1,0 +1,4 @@
+Statistics=8.854, p=0.003
+Different distributions (reject H0)
+teeplots/./viz=boxplot+x=population-size+y=robustness+ext=.pdf
+teeplots/./viz=boxplot+x=population-size+y=robustness+ext=.png
